@@ -2,5 +2,5 @@
 
 double calcManhattanDistance(double x, double y){
 
-    return 0.0;
+    return fabs(x) + fabs(y);
 }

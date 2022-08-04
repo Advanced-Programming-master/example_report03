@@ -1,6 +1,5 @@
 #include "func1.h"
 
 double calcEuclideanDistance(double x, double y){
-
-    return 0.0;
+    return sqrt(x*x+y*y);
 }
